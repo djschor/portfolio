@@ -104,7 +104,7 @@
                   <div class="card is-project-card">
                     <div class="card-image">
                       <figure class="image is-square is-project-image">
-                        <a href="/projects/secret"><img class="is-project-card" src="~/assets/experiences/millipore.png"></a>
+                        <a><img class="is-project-card" src="~/assets/experiences/millipore.png"></a>
                       </figure>
                     </div>
                     <div class="card-content">
@@ -168,12 +168,12 @@
               <div class="card is-project-card">
                 <div class="card-image">
                     <figure class="image is-square is-project-image">
-                        <a href="/projects/secret"><img class="is-project-card" src="~/assets/experiences/pse.png"></a>
+                        <a><img class="is-project-card" src="~/assets/experiences/pse.png"></a>
                     </figure>
                 </div>
                 <div class="card-content">
                     <div class="content">
-                      <a class="text_project" href="/projects/secret">PSE</a>
+                      <a class="text_project">PSE</a>
                       <p class="is-subtitle">Founder, President</p>
                       <div class="field is-grouped multibutton" >
                           <div class=" is-multi-tag" >
@@ -192,12 +192,12 @@
                 <div class="card is-project-card">
                   <div class="card-image">
                     <figure class="image is-square is-project-image">
-                      <a href="/projects/secret"><img class="is-project-card" src="~/assets/experiences/ql.png"></a>
+                      <a><img class="is-project-card" src="~/assets/experiences/ql.png"></a>
                     </figure>
                   </div>
                   <div class="card-content">
                     <div class="content">
-                      <a class="text_project" href="/projects/secret">Quicken Loans</a>
+                      <a class="text_project">Quicken Loans</a>
                       <p class="is-subtitle">Machine learning Engineer Intern</p>
                         <div class="field is-grouped multibutton" >
                           <div class=" is-multi-tag" >
@@ -245,12 +245,12 @@
               <div class="card is-project-card">
                 <div class="card-image">
                     <figure class="image is-square is-project-image">
-                        <a href="/projects/secret"><img class="is-project-card" src="~/assets/experiences/oud.png"></a>
+                        <a><img class="is-project-card" src="~/assets/experiences/oud.png"></a>
                     </figure>
                 </div>
                 <div class="card-content">
                     <div class="content">
-                      <a class="text_project" href="/projects/secret">Office of University Development</a>
+                      <a class="text_project">Office of University Development</a>
                       <p class="is-subtitle">Development Intern</p>
                       <div class="field is-grouped multibutton" >
                           <div class=" is-multi-tag" >
